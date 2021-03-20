@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages
 
-Everything in this page is building by the author
+Everything on this page is building by the author.
 
-Relax, they are comming soon
+Relax, they are comming soon!!
 
